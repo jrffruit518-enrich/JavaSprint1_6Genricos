@@ -1,4 +1,4 @@
-package spring1Tasca_S106Nivell1_1;
+package sprint1Tasca_S106Nivell1_1;
 
 import java.util.Objects;
 
